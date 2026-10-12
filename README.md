@@ -17,7 +17,7 @@
 - 💼 Software Engineer Intern at **PeopleStrong**, Gurgaon (Mar – Oct 2026), Core HR team
 - 🛠️ I build full-stack web apps and enjoy tracing a bug from the UI all the way down to the database
 - 🌱 Currently going deeper into **Java & Spring Boot backend**, **cloud (AWS)** and **AI-powered products**
-- 🧩 Practicing DSA in **C++**
+- 🧩 Practicing DSA in **JAVA**
 - 📫 **Open to full-time Software Engineer / SDE roles** — feel free to reach out
 
 ---
